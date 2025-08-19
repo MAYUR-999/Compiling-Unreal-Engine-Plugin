@@ -178,7 +178,7 @@ Some plugins may require additional libraries:
 sudo dnf install libX11-devel libXrandr-devel libXinerama-devel libXcursor-devel
 ```
 
-## Creating a Redistributable Plugin Package (**warning** made by ai)
+## Creating a Redistributable Plugin Package (**warning** made by AI)
 
 To create a clean, shareable plugin package:
 
